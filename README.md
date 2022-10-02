@@ -2,7 +2,7 @@
 
 <!--
 #groups
-Finance
+NLP
 
 #languages
 Python
